@@ -27,4 +27,4 @@ To reproduce the main results:
    - `generate_figures.py`
 
 ## License
-This project is released under the MIT License.
+This project is released under the University of Malaya
